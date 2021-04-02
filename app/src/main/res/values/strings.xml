@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Registro de usuario</string>
+    <string name="BotonSiguiente">Siguiente</string>
+    <string name="tv1">LOGIN</string>
+    <string name="BotonAnterior">Ya tienes cuenta? Accede!!!</string>
+
+    <string name="BotonSiguiete">REGISTRO</string>
+    <string name="irRegistro">REGISTRO</string>
+    <string name="confirmar">CONFIRMAR</string>
+
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="nombre_del_usuario">Nombre de usuario</string>
+    <string name="email">Correo</string>
+    <string name="contrasena">Contrasena</string>
+
+    <string name="telefono">Telefono</string>
+
+    <string name="Registro_exitoso">Reg_exitoso</string>
+    <string name="confContrasena">Repetir contraseña</string>
+    <string name="login">login</string>
+    <string name="registro">registro</string>
+    <string name="VolverLogin">Ya tienes cuenta? Accede!!!</string>
+
+</resources>
